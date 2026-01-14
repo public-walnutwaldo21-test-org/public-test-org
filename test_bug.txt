@@ -1,0 +1,3 @@
+THIS IS A BUG
+int x = "hello"
+FLAG THIS AS A BUG
